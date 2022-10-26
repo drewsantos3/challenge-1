@@ -11,8 +11,9 @@ N/A
 ## Usage
 
 file:///Users/drewsantos/code/challenge-1/index.html
+
 ```md
-![alt text](code/challenge-1/assets/images/_challenge-1-screenshot.png)
+![alt text](assets/images/_challenge-1-screenshot.png)
 ```
 
 ## Credits
