@@ -12,7 +12,7 @@ N/A
 
 file:///Users/drewsantos/code/challenge-1/index.html
 ```md
-![alt text](assets/images/_Users_drewsantos_code_challenge-1_index.html.png)
+![alt text](challenge-1/assets/images/_challenge-1-screenshot.png)
 ```
 
 ## Credits
